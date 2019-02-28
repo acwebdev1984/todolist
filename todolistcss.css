@@ -1,0 +1,121 @@
+
+
+.row{
+
+	border: none;
+}
+
+
+.row1 {
+
+	background-color: white;
+
+}
+
+.row2 {
+
+	background-color: black;
+}
+
+.row3 {
+
+	background-color: rgba(47.1, 52.9, 67.1);
+	height: 40vh;
+	overflow: scroll;
+	
+
+}
+
+li{
+
+	color: white;
+	padding-top:	20px;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+
+
+.title{
+	text-align: center;
+	position: relative;
+	font-family: 'Orbitron', sans-serif;	
+	font-size: 3vw;
+	color: white;
+	background-color: rgba(18, 25.5, 44.7, 0.5);
+	margin-top: 50px;
+
+
+}
+
+
+.strapline{
+
+position: relative;
+font-family: 'Satisfy', cursive;
+font-size: 2.5vw;
+margin-bottom: 100px;
+text-align: center;
+color: white;
+text-decoration: underline;
+text-decoration-color: hotpink;
+}
+
+.header{
+
+font-family: 'Orbitron', sans-serif;
+font-size: 1.2vw;
+text-align: center;
+color:rgba(18, 25.5, 44.7);
+padding-top: 20px;
+padding-bottom: 20px;
+
+
+}
+
+
+.footer{
+
+	font-family: 'Orbitron', sans-serif;
+	font-size: 1.2vw;
+	color: rgba(18, 25.5, 44.7);
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+		
+}
+
+.listheader{
+
+	text-decoration: underline;
+	text-decoration-color: hotpink;
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+	font-size: 2.5vw;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+ul{
+
+	list-style: none;
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+
+.done {
+  text-decoration: line-through;
+}
+
+#addbutton1 {
+
+	margin: 5px;
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+
+
+
